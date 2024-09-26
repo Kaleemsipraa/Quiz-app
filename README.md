@@ -2,7 +2,7 @@
 
 An interactive **Quiz App** that allows users to answer multiple-choice questions, see their score, and review correct answers. Built using **HTML**, **CSS**, and **JavaScript**, it provides an engaging experience with real-time score updates.
 
-![Quiz App Screenshot](link-to-your-screenshot)
+
 
 ## 🌟 Features
 
